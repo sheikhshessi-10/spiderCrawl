@@ -1,0 +1,7 @@
+scrapy>=2.11.0
+twisted>=22.10.0
+lxml>=4.9.0
+pyopenssl>=23.0.0
+service-identity>=23.1.0
+cryptography>=41.0.0
+pywin32>=306; sys_platform == "win32"

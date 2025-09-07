@@ -1,0 +1,13 @@
+Content-Length: 9669
+Date: Sun, 07 Sep 2025 11:26:04 GMT
+Server: Apache
+X-Powered-By: PHP/7.2.34
+Cache-Control: max-age=604800
+Expires: Sun, 14 Sep 2025 11:26:04 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Server-Id: {NODE-NAME}.{NODE-ENV}
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8
